@@ -12,11 +12,12 @@
 ---
 
 # 💫 About Me:
-
+👩‍💻 Frontend-focused Full Stack Developer with hands-on experience in React, Next.js, Tailwind, and REST API  
+🤝 Passionate about building intelligent, responsive, web applications, and AI agents
 
 ---
 
-# � My Tech Stack
+# 🛠️ My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma)](https://skillicons.dev)
 ---
 
