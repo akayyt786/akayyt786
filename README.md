@@ -3,7 +3,7 @@
 # ✨ Arman Katia ✨  
 ### Full Stack Developer & AI Agents Specialist
   
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Intelligent+Web+Apps;Graphic+%26+Web+Designer;Cyber+Security+Enthusiast;Next.js+%7C+TypeScript+%7C+Python;Full+Stack+Developer)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Intelligent+Web+Apps;Graphic+%26+Web+Designer;Cyber+Security+Enthusiast;Python;Full+Stack+Developer)
 
 <img src="https://camo.githubusercontent.com/85f0cec7ba1784236ec4e689d83da747f301dbdf058ffe6587f77ca45e992723/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" width="480" alt="Giphy API Demo" />
 
@@ -12,13 +12,13 @@
 ---
 
 # 💫 About Me:
-👩‍💻 Frontend-focused Full Stack Developer with hands-on experience in React, Next.js, Tailwind, and REST API  
+👩‍💻 Frontend-focused Full Stack Developer with hands-on experience in React, Tailwind, and REST API  
 🤝 Passionate about building intelligent, responsive, web applications, and AI agents
 
 ---
 
 # 🛠️ My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,python,git,github,vscode,figma)](https://skillicons.dev)
 ---
 
 <div align="center">
