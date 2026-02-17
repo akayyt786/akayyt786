@@ -43,9 +43,9 @@ i am dumb
 
 <div align="center">
   
-![snake gif](https://github.com/akayyt786/akayyt786/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/akayyt786/akayyt786/output/github-snake-dark.svg)
   
-  <div/>
+  </div>
 
 <div align="center" style="margin-top: 2rem;">
   <img src="https://komarev.com/ghpvc/?username=akayyt786&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
