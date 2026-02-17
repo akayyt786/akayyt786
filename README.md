@@ -18,8 +18,7 @@
 ---
 
 # 🛠️ My Tech Stack
-i am dumb
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,python,git,github,vscode,figma)](https://skillicons.dev)
 ---
 
 <div align="center">
